@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @vallmeister, currently a CS grad student from Germany.
-- 👀 I’m interested in competitive programming, data science and machine learning.
-- 🌱 I’m currently learning Python with its main data science frameworks like Pandas, Matplotlib, Seaborn, etc.
+Software developer with experience maintaining and optimizing a large-scale, real-time legacy system, complemented by a graduate focus in Data Science and Machine Learning. Combines practical backend engineering with strong algorithmic thinking and a genuine interest in applying ML methods to real-world, data-intensive systems.
 
 
 <!---
