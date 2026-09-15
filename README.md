@@ -1,9 +1,11 @@
-Software developer with experience maintaining and optimizing a large-scale, real-time legacy system, complemented by a graduate focus in Data Science and Machine Learning. Combines practical backend engineering with strong algorithmic thinking and a genuine interest in applying ML methods to real-world, data-intensive systems.
+## Hi, I'm Christian
 
+Software engineer based in Ulm, Germany. I work on a distributed
+real-time system in a large legacy Java codebase — mostly backend,
+with occasional detours into tooling and UI.
 
-<!---
-vallmeister/vallmeister is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
+M.Sc. in Computer Science (Ulm University), specialized in data
+science and machine learning.
+
+**Interests:** distributed systems, datastructures
+and algorithms, data science, and machine learning.
